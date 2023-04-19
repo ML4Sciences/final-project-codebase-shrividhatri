@@ -4,6 +4,9 @@ https://github.com/FangJia0901/Bond-Angle-for-SCCs
 Dataset:
 https://www.kaggle.com/c/champs-scalar-coupling
 
+Colab notebook:
+https://colab.research.google.com/drive/11WMz7WKYFdjAZK8i6ZJhYKY2sx-gH1Q5?usp=sharing
+
 
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/_GqhAiVb)
